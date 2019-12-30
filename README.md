@@ -1,7 +1,7 @@
 # Binitor
 Smart Garbage Monitoring System
 
-The Arduino code publishes the gathers data from the ultrasonic, tilt, and temperature sensors and sends them to the IBM IoT platform through the MQTT protocol.
+The Arduino code gathers data from the ultrasonic, tilt, and temperature sensors and sends them to the IBM IoT platform through the MQTT protocol.
 
 ## Setup function
 The setup function has the following responsibilities:
